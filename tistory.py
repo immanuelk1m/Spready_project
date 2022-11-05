@@ -27,8 +27,7 @@ options.add_argument("disable-infobars")
 options.add_argument("--disable-extensions")
 
 # 속도 향상을 위한 옵션 해제
-driver = webdriver.Chrome(executable_path='/home/g22000093/chromedriver',
-                          options=options)
+driver = webdriver.Chrome(executable_path='./chromedriver',options=options)
 
 w_list = []
 
