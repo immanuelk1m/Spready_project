@@ -1,0 +1,20 @@
+sudo apt-get install python3
+
+sudo apt-get install python3-pip
+
+sudo apt-get install tmux
+
+sudo apt install wget
+
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo apt install ./google-chrome-stable_current_amd64.deb
+
+sudo apt install unzip
+
+wget https://chromedriver.storage.googleapis.com/107.0.5304.62/chromedriver_linux64.zip
+unzip chromedriver_linux64.zip
+
+
+pip install selenium
+pip install beautifulsoup4 
+pip install requests
