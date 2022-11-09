@@ -8,6 +8,9 @@
 ### ETF 자동 글쓰기
 ??? ~ 
 
+### DC 인사이드 자동 글쓰기
+??? ~ 
+
 ## Project Garage
 
 ### Project Garage : 번개장터 매물 스나이핑
